@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/de/thumb/7/74/BP_logo.svg/1200px-BP_logo.svg.png",
+        "credit": "IBM India Pvt. Ltd. - BP NIKE",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/de/thumb/7/74/BP_logo.svg/1200px-BP_logo.svg.png"
+      },
+      "text": {
+        "headline": "British Petroleum NIKE",
+        "text": "<p>As a developer, started my work with the development of Smartforms, Reports.</p><ul><li>Worked on several outbound as well as Inbound Interfaces, reports and module pool program.</li><li>Worked on performance tuning for several programs.</li><li>Worked on enhancement points, user exits, Badi, enhancement.</li><li>Created FMs and done Testing.</li><li>Interaction with client, functional for requirement clarification and provided technical solution too.</li><li>Apart from several deliverables, has taken added responsibility of the team for all other activities including transport movement, cutover activities, guiding juniors</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "11"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/de/thumb/7/74/BP_logo.svg/1200px-BP_logo.svg.png",
+        "credit": "IBM India Pvt. Ltd. - BP NIKE AD",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/de/thumb/7/74/BP_logo.svg/1200px-BP_logo.svg.png"
+      },
+      "text": {
+        "headline": "British Petroleum - NIKE AD",
+        "text": "<ul><li>Provided technical guidance to juniors in the team.</li><li>Worked on creating class, method, persistence class to meet requirement.</li><li>Created Filter Badi and BADI from scratch to meet several requirements.</li><li>Developed ALV reports and module Pool programs.</li><li>Created FM and used BDC, BAPI in programs</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "9"
+      },
+      "media": {
+        "url": "https://logos-marcas.com/wp-content/uploads/2020/09/Johnson-Johnson-Emblema.png",
+        "credit": "IBM India Pvt. Ltd. - Johnson & Johnson",
+        "thumbnail": "https://logos-marcas.com/wp-content/uploads/2020/09/Johnson-Johnson-Emblema.png"
+      },
+      "text": {
+        "headline": "Johnson & Johnson",
+        "text": "<p>As a senior consultant I have worked on:<p><ul><li>ALE IDoc (Inbound and Outbound)</li><li>Enhancements</li><li>BADI, FILTER BADI</li><li>RICEF</li><li>Class, Methods, Persistent Class and very good OOPs oriented developments</li><li>Guiding other junior team members</li><li>Manage some project activities in leading role</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://149448277.v2.pressablecdn.com/wp-content/uploads/2020/06/allstate-logo.png",
+        "credit": "AllState",
+        "thumbnail": "https://149448277.v2.pressablecdn.com/wp-content/uploads/2020/06/allstate-logo.png"
+      },
+      "text": {
+        "headline": "AlLState",
+        "text": "<p>As a senior consultant I have worked on:<p><ul><li>File interface and webservices</li><li>UI5, FIORI Application and ODATA</li><li>SAP HANA; FI, TREASURY, CFTE</li><li>Cloud & SAP S4 HANA</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2019",
+        "month": "7"
+      },
+      "media": {
+        "url": "https://directors-channel.com/wp-content/uploads/2017/06/KPMG-Logo-614.001.jpeg",
+        "credit": "KPMG Global Services India Pvt. Ltd.",
+        "thumbnail": "https://directors-channel.com/wp-content/uploads/2017/06/KPMG-Logo-614.001.jpeg"
+      },
+      "text": {
+        "headline": "KPMG Global Services India Pvt. Ltd.",
+        "text": "<ul><li>Responsible for leading technical delivery of SAP HANA objects.</li><li>Involved in requirement gatherings phase and Planning and mapping business objects.</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
+    }
+  ]
+}
