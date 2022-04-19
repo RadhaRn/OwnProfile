@@ -12,13 +12,31 @@ from constant import *
 # from graph_builder import *
 # import os
 
-st.set_page_config(page_title='Radha Ray\'s Resume', layout='wide', page_icon='random')
+st.set_page_config(page_title='Radha Ray\'s Profile', layout='wide', page_icon='random', initial_sidebar_state='auto')
+# st.sidebar.image()
+
+# hide hamburger menu and footer
+hide_st_style = """
+                <style>
+                #MainMenu {visibility: hidden;}
+                footer {visibility: hidden;}
+                </style>
+                """
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 with st.sidebar:
         components.html(embed_component['linkedin'], height=310)
 
 # st.sidebar.markdown(info['Stackoverflow_flair'],unsafe_allow_html=True)
 st.sidebar.markdown(info['name'], unsafe_allow_html=True)
+
+# label = st.sidebar.markdown(info['name'], unsafe_allow_html=True)
+with open('./pdfs/radha_ray_resume.pdf', 'rb') as pdf_file:
+    PDFbyte = pdf_file.read()
+
+st.sidebar.download_button(label='Download Resume', data=PDFbyte, file_name='radha_ray_resume.pdf',
+                           mime='application/octet-stream')
+
 st.subheader('Summary')
 st.write(info['Brief'])
 
