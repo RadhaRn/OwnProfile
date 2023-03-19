@@ -19,7 +19,7 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 with st.sidebar:
-        components.html(embed_component['linkedin'], height=310)
+        components.html(embed_component['linkedin'], height=320)
 
 st.sidebar.markdown(info['name'], unsafe_allow_html=True)
 
