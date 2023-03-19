@@ -1,19 +1,13 @@
 import streamlit as st
 from streamlit_timeline import timeline
-# import numpy as np
-# import pandas as pd
 import streamlit.components.v1 as components
 import plotly.graph_objects as go
 from matplotlib import pyplot as plt
-# import numpy as np
 
 # other python files
 from constant import *
-# from graph_builder import *
-# import os
 
-st.set_page_config(page_title='Radha Ray\'s Profile', layout='wide', page_icon='random', initial_sidebar_state='auto')
-# st.sidebar.image()
+st.set_page_config(page_title='Radha Ray\'s Profile', layout='wide', page_icon='page_with_curl', initial_sidebar_state='auto')
 
 # hide hamburger menu and footer
 hide_st_style = """
@@ -27,10 +21,8 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 with st.sidebar:
         components.html(embed_component['linkedin'], height=310)
 
-# st.sidebar.markdown(info['Stackoverflow_flair'],unsafe_allow_html=True)
 st.sidebar.markdown(info['name'], unsafe_allow_html=True)
 
-# label = st.sidebar.markdown(info['name'], unsafe_allow_html=True)
 with open('./pdfs/radha_ray_resume.pdf', 'rb') as pdf_file:
     PDFbyte = pdf_file.read()
 
