@@ -20,7 +20,7 @@ info = {'name': 'Radharani Ray',
 skill_col_size = 5
 embed_component = {
     'linkedin': """<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="radha-ray-sap-innovation-lead-9415354a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/radha-ray-sap-innovation-lead-9415354a?trk=profile-badge">Radha Ray (SAP, Innovation Lead)</a></div>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="radha-ray-sap-innovation-lead-9415354a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/radha-ray-sap-innovation-lead-9415354a?trk=profile-badge">Radha Ray (SAP, Innovation Lead)</a></div>
               """,
                   }
 

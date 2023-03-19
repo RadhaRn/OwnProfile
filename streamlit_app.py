@@ -23,10 +23,10 @@ with st.sidebar:
 
 st.sidebar.markdown(info['name'], unsafe_allow_html=True)
 
-with open('./pdfs/radha_ray_resume.pdf', 'rb') as pdf_file:
+with open('./pdfs/Radha_Ray_Resume.pdf', 'rb') as pdf_file:
     PDFbyte = pdf_file.read()
 
-st.sidebar.download_button(label='Download Resume', data=PDFbyte, file_name='radha_ray_resume.pdf',
+st.sidebar.download_button(label='Download Resume', data=PDFbyte, file_name='Radha_Ray_Resume.pdf',
                            mime='application/octet-stream')
 
 st.subheader('Summary')
