@@ -66,7 +66,7 @@
       },
       "text": {
         "headline": "AlLState",
-        "text": "<p>As a senior consultant I have worked on:<p><ul><li>File interface and webservices</li><li>UI5, FIORI Application and ODATA</li><li>SAP HANA; FI, TREASURY, CFTE</li><li>Cloud & SAP S4 HANA</li></ul>"
+        "text": "<p>As a senior consultant I have worked on:<p><ul><li>File interface and webservices</li><li>OData Services</li><li>SAP HANA; FI, Treasury, CFTE</li><li>Reconciliation of FI documents</li><li>Wire transfer, ACH payment files programs</li></ul>"
       },
       "background": {
         "color": "#9880b0"
@@ -84,7 +84,8 @@
       },
       "text": {
         "headline": "KPMG Global Services India Pvt. Ltd.",
-        "text": "<ul><li>Responsible for leading technical delivery of SAP HANA objects.</li><li>Involved in requirement gatherings phase and Planning and mapping business objects.</li></ul>"
+        "text": "<ul><li>Responsible for leading technical delivery of SAP HANA objects.</li><li>Involved in requirement gatherings phase and Planning and mapping business objects.</li><li>Leading Innovation track from SAP front, working with new technologies, gathering reusable\nartefacts, and accelerators and guiding resources to implement them.</li><li>Automated business processes using webdynpro components.</li><li>Created fully customized solution for Engagement and Billing combining HR-CRM-SD-FI in SAP.</li></ul>"
+
       },
       "background": {
         "color": "#9880b0"
