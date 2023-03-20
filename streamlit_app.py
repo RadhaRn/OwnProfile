@@ -67,8 +67,8 @@ fig = go.Figure(data=[go.Table(
                 fill_color='purple',
                 align='center', height=65, font_size=20),
     cells=dict(values=info['edu'].transpose().values.tolist(),
-               # fill_color='lavender',
-               fill_color='darkgreen',
+               fill_color='lavender',
+               # fill_color='darkgreen',
                align='left', height=40, font_size=15))])
 
 fig.update_layout(width=750, height=400)
