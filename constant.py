@@ -9,7 +9,7 @@ info = {'name': 'Radharani Ray',
                   'using new age offerings from SAP, and harnessing the power of AI; '
                   'Love to learn new things. Right now: python, Machine Learning, Artificial Intelligence, Azure!!',
                   'photo': {'path': 'abc.jpg', 'width': 150},
-        'Mobile': '+91 6361106846', 'Email': 'radharay026@gmail.com', 'City': 'Bangalore, Karnataka',
+        'Mobile': '+91-6361106846', 'Email': 'radharay026@gmail.com', 'City': 'Bangalore, Karnataka',
         'edu': pd.DataFrame(edu, columns=['Qualification', 'Stream', 'Year', 'Institute', 'Score']),
         'skills': ['SAP ABAP', 'ABAP on HANA', 'SAP iRPA', 'SAP CAI', 'SAP DataHub', 'SAP BAS', 'SAP APO',
                    'SAP GTS', 'SAP SD', 'IDoc', 'ABAP proxy', 'WebDynpro', 'Unit Testing', 'Analytics with CDS',
