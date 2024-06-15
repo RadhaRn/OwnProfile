@@ -126,6 +126,24 @@
       "background": {
         "color": "#9880b0"
       }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "media": {
+        "url": "https://download.logo.wine/logo/Vossloh/Vossloh-Logo.wine.png",
+        "credit": "Vossloh AG",
+        "thumbnail": "https://www.vossloh.com/images/vossloh_logo_svg_1.svg"
+      },
+      "text": {
+        "headline": "Vossloh AG",
+        "text": "<ul><li>Automated project creation and account assignment on WBS element absed on opportunity.</li><li>Implemented complex pricing routine and commission object for O2C.</li><li>Managed project activities in leading role</li></ul>"
+      },
+      "background": {
+        "color": "#9880b0"
+      }
     }
   ]
 }

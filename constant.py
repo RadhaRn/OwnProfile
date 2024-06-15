@@ -5,7 +5,7 @@ edu = [['B.Tech', 'M.E.', '2011', 'G.I.T.A. Odhisa', '81%'],
        ['10th', '-', '2007', 'I.V.M. Odisha', '82%']]
 
 info = {'name': 'Radharani Ray',
-        'Brief': 'SAP ABAP Consultant with 9+ years of experience, looking to resolve complex business problems '
+        'Brief': 'SAP ABAP Consultant with 10+ years of experience, looking to resolve complex business problems '
                   'using new age offerings from SAP, and harnessing the power of AI; '
                   'Love to learn new things. Right now: python, Machine Learning, Artificial Intelligence, Azure!!',
                   'photo': {'path': 'abc.jpg', 'width': 150},
